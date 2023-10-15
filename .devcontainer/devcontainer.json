@@ -9,7 +9,11 @@
             },
             "extensions": [
                 "HashiCorp.terraform",
-                "ms-python.python"
+                "ms-python.python",
+                "Equinusocio.vsc-community-material-theme",
+                "PKief.material-icon-theme",
+                "Equinusocio.vsc-material-theme-icons",
+                "zhuangtongfa.Material-theme"
             ]
         }
     },
